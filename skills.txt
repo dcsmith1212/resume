@@ -1,0 +1,92 @@
+List of skills I've developed so far at nVoq and elsewhere:
+
+- chef
+	- Cookbook creation and deployment on various clusters
+- Jenkins
+	- Designed/architected multiple automated builds
+	- Worked with Pipeline plugin to use Groovy declarative syntax
+- Ubuntu
+- REST APIs
+	- Modifying existing services
+- WebSockets
+	- Messages on both sides
+- Postman
+- C/C++
+	- Kaldi
+	- Gstreamer
+	- Templates
+	- OpenFST
+	- gcc/g++/make
+	- gdb, valgrind
+- Java
+	- JNI
+	- Eclipse
+	- ant
+	- junit
+	- SpotBugs
+- Python
+	- Rapid prototyping
+	- NLTK
+	- Jupyter
+	- Pickle
+	- Pandas
+	- Numpy
+	- PythonCV
+- Bash
+- Subversion
+	- Tortoise
+- Git
+- Agile Dev, V1, standups, scrum process, etc.
+- make
+- vim
+- VSCode
+- Event-driven architecture
+- DSP
+Things that are almost there that I can at least discuss a bit:
+- Javascript (ES6/ES7)
+	- Electron
+	- WebAudio API
+	- D3.js
+- HTML5
+- CSS3
+	- Bootstrap
+- Webpack/Babel
+- VSCode
+- VST/AU plugins with Juce
+- Spotify API
+
+nginx
+	
+JSON
+	
+- Common Lisp (SBCL)
+
+Stuff I don't do anymore but have projects for:
+- Computer Vision (OpenCV)
+- Machine Learning (Lua/Torch)
+
+
+
+Projects I'd like to mention:
+- Music Map
+- Computer Vision Synth
+- License Plate Reco
+
+
+
+Strengths:
+- Ambitious
+- Collaborative
+- Adaptable
+- Analytical
+- Good at teaching/explaining
+- Self-Motivated
+
+Hobbies:
+- Musicmusicmusicmusic
+- Reading
+- Cooking
+- Snowboarding
+- Bouldering
+- Billiards
+- Travel
