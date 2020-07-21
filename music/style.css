@@ -69,7 +69,7 @@ body {
 
 .header {
     margin-top: 0.5in;
-    margin-bottom: 0.4in;
+    margin-bottom: 0.3in;
 }
 
 .header .name {
@@ -82,7 +82,7 @@ body {
 .header .description {
     font-size: 14px;
     font-style: italic;
-    width: 2.53in;
+    width: 2.6in;
 }
 
 .header .description p {
@@ -98,7 +98,7 @@ body {
 }
 
 .info.section {
-    margin-bottom: 0.35in;
+    margin-bottom: 0.2in;
 }
 
 .info-entry p, a {
@@ -140,7 +140,8 @@ body {
 
 .section ul {
     list-style-type: none;
-    padding-left: 12px;
+    padding-left: 6px;
+    padding-right: 4px;
 }
 
 .info.section li {
@@ -156,26 +157,51 @@ body {
     justify-content: center;
 }
 
-.skill-entry {
+.skills-columns {
     display: flex;
-    flex-direction: column;
-    margin-bottom: 10px;
-    font-size: 14px;
+}
+
+.skills-columns ul {
+    margin-top: 0.08in;
 }
 
 .skill-bar {
-    margin-top: 3px;
-    width: 2.2in;
-    height: 6px;
+    margin-top: 16px;
+    width: 1.13in;
+    height: 22px;
     border-radius: 3px;
     background-color: #eee;
+    position: relative;
+}
+
+.skill-bar div {
+    text-indent: 5px;
+    position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.skill-title {
+    border-radius: 3px;
+    font-size: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #eee;
+    color: #333;
+    width: 100%;
+    z-index: 3;
 }
 
 .skill-bar-inner {
+    font-size: 14px;
     height: 100%;
     border-top-left-radius: 3px;
     border-bottom-left-radius: 3px;
     background-color: #333;
+    color: #eee;
+    z-index: 4;
+    display: flex;
+    align-items: center;
 }
 
 .profile.section {
